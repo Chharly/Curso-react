@@ -1,1 +1,2 @@
 remera
+pantalon
